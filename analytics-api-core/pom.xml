@@ -13,13 +13,13 @@
 		<version>2.0</version>
 	</parent>
 
-	<!-- <repositories>
+	<repositories>
 		<repository>
 			<id>jcenter-repo</id>
 			<name>Jcenter Repo</name>
 			<url>https://jcenter.bintray.com/</url>
 		</repository>
-	</repositories> -->
+	</repositories>
 
 	<properties>
 		<elastic4sVersion>6.2.10</elastic4sVersion>
